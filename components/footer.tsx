@@ -24,27 +24,27 @@ export default function Footer() {
     {
       name: "SICAD",
       logo: "/icad.png",
-      url: "https://sicad.pt",
+      url: "https://www.sicad.pt",
     },
     {
       name: "GamCare",
       logo: "/gamecare.svg",
-      url: "https://gamcare.org.uk",
+      url: "https://www.gamcare.org.uk",
     },
     {
       name: "SRIJ",
       logo: "/srij.svg",
-      url: "https://srij.turismodeportugal.pt",
+      url: "https://www.srij.turismodeportugal.pt",
     },
     {
       name: "GambleAware",
       logo: "/gamble.webp",
-      url: "https://gambleaware.org",
+      url: "https://www.gambleaware.org",
     },
     {
       name: "Jogo Responsável",
       logo: "/jogo2.png",
-      url: "https://jogoresponsavel.pt",
+      url: "https://www.jogoresponsavel.pt",
     },
   ]
 
