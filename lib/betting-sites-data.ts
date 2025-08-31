@@ -17,7 +17,7 @@ export const bettingSites: BettingSite[] = [
     name: "Luckia",
     logo: "/luckia.svg",
     bonus: "Aposta Grátis de Atualmente",
-    url: "https://www.luckia.pt",
+    url: "https://www.luckia.pt/",
     rating: 9.7,
     stars: 4.9,
     reviews: 4823,
