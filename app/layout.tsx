@@ -4,10 +4,10 @@ import { Geist, Geist_Mono } from "next/font/google"
 import { Analytics } from "@vercel/analytics/next"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
-import TopSitesModal from "@/components/top-sites-modal"
 import CookieBanner from "@/components/cookie-banner"
 import "./globals.css"
 import { Suspense } from "react"
+import { TopSitesModal } from "@/components/top-sites-modal"
 
 const geistSans = Geist({
   subsets: ["latin"],
@@ -27,8 +27,6 @@ export const metadata: Metadata = {
   keywords:
     "apostas desportivas, casas de apostas, Portugal, SRIJ, bónus apostas, sites apostas portugueses, apostasdesportivasonlinept.com",
   robots: "index, follow",
-  generator: "v0.app",
-  lang: "pt",
 }
 
 export default function RootLayout({

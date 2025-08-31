@@ -146,7 +146,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-gray-700 text-center space-y-2">
           <p className="text-sm text-gray-400">
-            © {currentYear} APOSTAS DESPORTIVAS ONLINE PT (apostasdesportivasonlinept.com). Todos os direitos
+            © {currentYear} APOSTAS DESPORTIVAS ONLINE PT. Todos os direitos
             reservados.
           </p>
           <p className="text-xs text-gray-500">18+ | Apenas jogadores portugueses | Jogue com responsabilidade</p>
